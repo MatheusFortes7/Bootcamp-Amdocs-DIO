@@ -10,5 +10,4 @@ public class ContaCorrente extends Conta{
         System.out.println("Extrato da conta corrente:");
         super.getExtrato();
     }
-
 }
