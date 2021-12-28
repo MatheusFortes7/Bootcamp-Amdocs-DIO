@@ -16,7 +16,9 @@ public class mudanca{
     		} else if (graus >= 270 && graus < 360){
     		  System.out.println("De Madrugada!!");
     		}
+            
     		else System.out.println("Bom Dia!!");
+            leitor.close();
     	}
     }
     
